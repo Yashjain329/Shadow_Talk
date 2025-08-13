@@ -1,3 +1,8 @@
+![GitHub Stars](https://img.shields.io/github/stars/Yashjain329/Shadow_Talk?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Yashjain329/Shadow_Talk?style=social)
+![GitHub License](https://img.shields.io/github/license/Yashjain329/Shadow_Talk)
+![Last Commit](https://img.shields.io/github/last-commit/Yashjain329/Shadow_Talk)
+
 # Shadow Talk
 
 Shadow Talk is a Flutter-based mobile application designed to provide a seamless and engaging user experience. This project serves as a foundation for building a feature-rich chat or communication app with Flutter.
