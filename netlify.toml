@@ -1,0 +1,7 @@
+[build]
+  command = "chmod +x build.sh && ./build.sh"
+  publish = "build/web"
+  cache_directories = ["flutter"]
+
+[build.environment]
+  # SUPABASE_ANON_KEY and SUPABASE_URL are set in Netlify UI
