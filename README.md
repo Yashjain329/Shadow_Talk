@@ -95,5 +95,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 Github : Yashjain329
+
 Name : Yash Jain
+
 E-mail : Yashjain9350@gmail.com
