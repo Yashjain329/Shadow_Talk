@@ -2,6 +2,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/Yashjain329/Shadow_Talk?style=social)
 ![GitHub License](https://img.shields.io/github/license/Yashjain329/Shadow_Talk)
 ![Last Commit](https://img.shields.io/github/last-commit/Yashjain329/Shadow_Talk)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89e8ea62-de41-4f88-81bf-2255edb78f3e/deploy-status)](https://app.netlify.com/projects/shadow-talk-yash/deploys)
 
 # Shadow Talk
 
